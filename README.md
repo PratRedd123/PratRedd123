@@ -2,7 +2,7 @@
 
 My name is Pratap.
 
-I am attending the Hacktoberfest to learn all about Open Source and in particular using GitHub to collaborate code.
+I am attending the Hacktoberfest event to learn all about Open Source and in particular using GitHub to collaborate code.
 
 <!--
 **PratRedd123/PratRedd123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
